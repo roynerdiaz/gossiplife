@@ -76,11 +76,11 @@ export default {
         "Tendencias",
       ],
       selectedChisme: {
-        img: "https://apnews.com/article/argentina-messi-lesion-uruguay-brasil-9e4fd5db985cc12ac85fae207228bbad",
-        descripcion: "Este es un chisme muy interesante sobre...",
+        img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuqmrx5e_mLUJdFRMBSjfvojvWtGs8th027w_2GVvqouy6dkr_MbHORDgV0GTq-PlKuqfFlhjJi1iIziGq9Rc2ag",
+        descripcion: "LEO MESSI ES CAMPEÓN DEL MUNDO!!!!!",
         comentarios: [
           { autor: "Ana", texto: "No puedo creerlo!" },
-          { autor: "Carlos", texto: "Esto está en tendencia." },
+          { autor: "Carlos", texto: "El mejor jugador de la historia!" },
         ],
       },
     };
